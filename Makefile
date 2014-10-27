@@ -1,0 +1,3 @@
+CWE121_Stack_Based_Buffer_Overflow__CWE131_memcpy_01: CWE121_Stack_Based_Buffer_Overflow__CWE131_memcpy_01.c
+	gcc -o CWE121_Stack_Based_Buffer_Overflow__CWE131_memcpy_01 CWE121_Stack_Based_Buffer_Overflow__CWE131_memcpy_01.c
+
